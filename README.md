@@ -17,18 +17,6 @@
 
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chinmayee2524&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" width="500" height="195" alt="stats graph"  />
-  <br> 
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chinmayee2524&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=5&theme=dark&hide_border=true&order=2" height="195" alt="languages graph"  />
-  <br>
-  <br>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Chinmayee2524&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
-  <br>
-  <br>
-  
-</div>
 
 
 ###
